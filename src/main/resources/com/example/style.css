@@ -1,0 +1,12 @@
+#Label1 {
+    -fx-font-size: 44px;
+    -fx-text-fill: blue;
+    -fx-font-weight: bold;
+}
+
+.input {
+    -fx-font-size: 44px;
+    -fx-alignment: center;
+    -fx-padding: 16px;
+    -fx-background-color: navy;
+}
